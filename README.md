@@ -1,4 +1,4 @@
-# README
+# PROJETO-FINAL-TITAN
 
 ## Como executar o projeto
 
